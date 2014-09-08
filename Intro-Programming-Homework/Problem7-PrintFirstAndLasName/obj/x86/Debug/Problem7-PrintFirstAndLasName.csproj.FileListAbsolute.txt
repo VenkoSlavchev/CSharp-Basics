@@ -1,0 +1,4 @@
+c:\users\admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem7-PrintFirstAndLasName\bin\Debug\Problem7-PrintFirstAndLasName.exe
+c:\users\admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem7-PrintFirstAndLasName\bin\Debug\Problem7-PrintFirstAndLasName.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem7-PrintFirstAndLasName\obj\x86\Debug\Problem7-PrintFirstAndLasName.exe
+c:\users\admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem7-PrintFirstAndLasName\obj\x86\Debug\Problem7-PrintFirstAndLasName.pdb

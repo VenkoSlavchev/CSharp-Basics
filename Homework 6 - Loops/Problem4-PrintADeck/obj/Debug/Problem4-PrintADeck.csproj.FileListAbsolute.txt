@@ -1,0 +1,6 @@
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 6 - Loops\Problem4-PrintADeck\bin\Debug\Problem4-PrintADeck.exe.config
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 6 - Loops\Problem4-PrintADeck\bin\Debug\Problem4-PrintADeck.exe
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 6 - Loops\Problem4-PrintADeck\bin\Debug\Problem4-PrintADeck.pdb
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 6 - Loops\Problem4-PrintADeck\obj\Debug\Problem4-PrintADeck.csprojResolveAssemblyReference.cache
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 6 - Loops\Problem4-PrintADeck\obj\Debug\Problem4-PrintADeck.exe
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 6 - Loops\Problem4-PrintADeck\obj\Debug\Problem4-PrintADeck.pdb

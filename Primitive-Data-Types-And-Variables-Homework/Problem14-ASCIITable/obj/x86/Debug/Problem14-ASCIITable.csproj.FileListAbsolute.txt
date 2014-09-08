@@ -1,0 +1,4 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Problem5\Problem14-ASCIITable\bin\Debug\Problem14-ASCIITable.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Problem5\Problem14-ASCIITable\bin\Debug\Problem14-ASCIITable.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Problem5\Problem14-ASCIITable\obj\x86\Debug\Problem14-ASCIITable.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Problem5\Problem14-ASCIITable\obj\x86\Debug\Problem14-ASCIITable.pdb

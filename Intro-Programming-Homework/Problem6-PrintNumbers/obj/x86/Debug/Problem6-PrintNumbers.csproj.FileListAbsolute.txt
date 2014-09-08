@@ -1,0 +1,4 @@
+c:\users\admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem6-PrintNumbers\bin\Debug\Problem6-PrintNumbers.exe
+c:\users\admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem6-PrintNumbers\bin\Debug\Problem6-PrintNumbers.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem6-PrintNumbers\obj\x86\Debug\Problem6-PrintNumbers.exe
+c:\users\admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem6-PrintNumbers\obj\x86\Debug\Problem6-PrintNumbers.pdb

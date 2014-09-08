@@ -1,0 +1,5 @@
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 6 - Loops\Problem14-DecimalToBinary\bin\Debug\Problem14-DecimalToBinary.exe.config
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 6 - Loops\Problem14-DecimalToBinary\bin\Debug\Problem14-DecimalToBinary.exe
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 6 - Loops\Problem14-DecimalToBinary\bin\Debug\Problem14-DecimalToBinary.pdb
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 6 - Loops\Problem14-DecimalToBinary\obj\Debug\Problem14-DecimalToBinary.exe
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 6 - Loops\Problem14-DecimalToBinary\obj\Debug\Problem14-DecimalToBinary.pdb

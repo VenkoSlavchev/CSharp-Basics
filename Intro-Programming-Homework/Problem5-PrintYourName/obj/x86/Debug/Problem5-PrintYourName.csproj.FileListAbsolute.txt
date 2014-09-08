@@ -1,0 +1,4 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem5-PrintYourName\bin\Debug\Problem5-PrintYourName.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem5-PrintYourName\bin\Debug\Problem5-PrintYourName.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem5-PrintYourName\obj\x86\Debug\Problem5-PrintYourName.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem5-PrintYourName\obj\x86\Debug\Problem5-PrintYourName.pdb

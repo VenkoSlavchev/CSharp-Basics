@@ -1,0 +1,5 @@
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem4-Rectangles\bin\Debug\Problem4-Rectangles.exe.config
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem4-Rectangles\bin\Debug\Problem4-Rectangles.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem4-Rectangles\bin\Debug\Problem4-Rectangles.pdb
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem4-Rectangles\obj\Debug\Problem4-Rectangles.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem4-Rectangles\obj\Debug\Problem4-Rectangles.pdb

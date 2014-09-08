@@ -1,0 +1,4 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Problem5\Problem12-NullAritmetics\bin\Debug\Problem12-NullAritmetics.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Problem5\Problem12-NullAritmetics\bin\Debug\Problem12-NullAritmetics.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Problem5\Problem12-NullAritmetics\obj\x86\Debug\Problem12-NullAritmetics.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Problem5\Problem12-NullAritmetics\obj\x86\Debug\Problem12-NullAritmetics.pdb

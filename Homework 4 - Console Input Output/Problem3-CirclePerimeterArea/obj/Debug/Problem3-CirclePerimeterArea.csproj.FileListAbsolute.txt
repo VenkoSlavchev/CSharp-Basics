@@ -1,0 +1,5 @@
+c:\users\venko\documents\visual studio 2013\Projects\Homework 4 - Console Input Output\Problem3-CirclePerimeterArea\bin\Debug\Problem3-CirclePerimeterArea.exe.config
+c:\users\venko\documents\visual studio 2013\Projects\Homework 4 - Console Input Output\Problem3-CirclePerimeterArea\bin\Debug\Problem3-CirclePerimeterArea.exe
+c:\users\venko\documents\visual studio 2013\Projects\Homework 4 - Console Input Output\Problem3-CirclePerimeterArea\bin\Debug\Problem3-CirclePerimeterArea.pdb
+c:\users\venko\documents\visual studio 2013\Projects\Homework 4 - Console Input Output\Problem3-CirclePerimeterArea\obj\Debug\Problem3-CirclePerimeterArea.exe
+c:\users\venko\documents\visual studio 2013\Projects\Homework 4 - Console Input Output\Problem3-CirclePerimeterArea\obj\Debug\Problem3-CirclePerimeterArea.pdb

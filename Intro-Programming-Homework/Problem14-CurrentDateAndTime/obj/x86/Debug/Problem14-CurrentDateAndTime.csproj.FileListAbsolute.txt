@@ -1,0 +1,4 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem14-CurrentDateAndTime\bin\Debug\Problem14-CurrentDateAndTime.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem14-CurrentDateAndTime\bin\Debug\Problem14-CurrentDateAndTime.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem14-CurrentDateAndTime\obj\x86\Debug\Problem14-CurrentDateAndTime.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem14-CurrentDateAndTime\obj\x86\Debug\Problem14-CurrentDateAndTime.pdb

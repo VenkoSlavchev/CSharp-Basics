@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem1-DeclareVariables\bin\Debug\Problem1-DeclareVariables.exe
+c:\users\admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem1-DeclareVariables\bin\Debug\Problem1-DeclareVariables.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem1-DeclareVariables\obj\x86\Debug\Problem1-DeclareVariables.exe
+c:\users\admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem1-DeclareVariables\obj\x86\Debug\Problem1-DeclareVariables.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem1-DeclareVariables\obj\x86\Debug\Problem1-DeclareVariables.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\UNISOFT-Homeworks\Primitive-Data-Types-And-Variables-Homework\Problem1-DeclareVariables\obj\x86\Debug\Problem1-DeclareVariables.exe
+C:\Users\Admin\Desktop\UNISOFT-Homeworks\Primitive-Data-Types-And-Variables-Homework\Problem1-DeclareVariables\obj\x86\Debug\Problem1-DeclareVariables.pdb
+D:\SoftUni\Homeworks\Primitive-Data-Types-And-Variables-Homework\Problem1-DeclareVariables\obj\x86\Debug\Problem1-DeclareVariables.exe
+D:\SoftUni\Homeworks\Primitive-Data-Types-And-Variables-Homework\Problem1-DeclareVariables\obj\x86\Debug\Problem1-DeclareVariables.pdb

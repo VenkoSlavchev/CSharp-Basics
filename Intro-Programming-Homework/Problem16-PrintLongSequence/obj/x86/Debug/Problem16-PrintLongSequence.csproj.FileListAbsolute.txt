@@ -1,0 +1,4 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem16-PrintLongSequence\bin\Debug\Problem16-PrintLongSequence.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem16-PrintLongSequence\bin\Debug\Problem16-PrintLongSequence.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem16-PrintLongSequence\obj\x86\Debug\Problem16-PrintLongSequence.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem16-PrintLongSequence\obj\x86\Debug\Problem16-PrintLongSequence.pdb

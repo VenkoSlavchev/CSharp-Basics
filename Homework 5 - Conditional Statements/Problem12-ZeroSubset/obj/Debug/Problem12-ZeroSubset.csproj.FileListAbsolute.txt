@@ -1,0 +1,6 @@
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem12-ZeroSubset\bin\Debug\Problem12-ZeroSubset.exe.config
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem12-ZeroSubset\bin\Debug\Problem12-ZeroSubset.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem12-ZeroSubset\bin\Debug\Problem12-ZeroSubset.pdb
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem12-ZeroSubset\obj\Debug\Problem12-ZeroSubset.csprojResolveAssemblyReference.cache
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem12-ZeroSubset\obj\Debug\Problem12-ZeroSubset.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem12-ZeroSubset\obj\Debug\Problem12-ZeroSubset.pdb

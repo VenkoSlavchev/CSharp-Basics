@@ -1,0 +1,6 @@
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem10-InsideOutside\bin\Debug\Problem10-InsideOutside.exe.config
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem10-InsideOutside\bin\Debug\Problem10-InsideOutside.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem10-InsideOutside\bin\Debug\Problem10-InsideOutside.pdb
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem10-InsideOutside\obj\Debug\Problem10-InsideOutside.csprojResolveAssemblyReference.cache
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem10-InsideOutside\obj\Debug\Problem10-InsideOutside.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem10-InsideOutside\obj\Debug\Problem10-InsideOutside.pdb

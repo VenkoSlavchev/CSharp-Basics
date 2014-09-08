@@ -1,0 +1,6 @@
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem3-DivideBy7And5\bin\Debug\Problem3-DivideBy7And5.exe.config
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem3-DivideBy7And5\bin\Debug\Problem3-DivideBy7And5.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem3-DivideBy7And5\bin\Debug\Problem3-DivideBy7And5.pdb
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem3-DivideBy7And5\obj\Debug\Problem3-DivideBy7And5.csprojResolveAssemblyReference.cache
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem3-DivideBy7And5\obj\Debug\Problem3-DivideBy7And5.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem3-DivideBy7And5\obj\Debug\Problem3-DivideBy7And5.pdb

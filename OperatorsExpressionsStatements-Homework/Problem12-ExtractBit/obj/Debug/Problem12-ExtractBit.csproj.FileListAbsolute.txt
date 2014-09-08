@@ -1,0 +1,5 @@
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem12-ExtractBit\bin\Debug\Problem12-ExtractBit.exe.config
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem12-ExtractBit\bin\Debug\Problem12-ExtractBit.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem12-ExtractBit\bin\Debug\Problem12-ExtractBit.pdb
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem12-ExtractBit\obj\Debug\Problem12-ExtractBit.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem12-ExtractBit\obj\Debug\Problem12-ExtractBit.pdb

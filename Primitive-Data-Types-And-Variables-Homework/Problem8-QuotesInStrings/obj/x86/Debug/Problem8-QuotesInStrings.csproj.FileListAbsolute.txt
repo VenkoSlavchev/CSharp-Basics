@@ -1,0 +1,6 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Problem5\Problem7\obj\x86\Debug\Problem7.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Problem5\Problem7\obj\x86\Debug\Problem7.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem7\bin\Debug\Problem7.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem7\bin\Debug\Problem7.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem8-QuotesInStrings\obj\x86\Debug\Problem7.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem8-QuotesInStrings\obj\x86\Debug\Problem7.pdb

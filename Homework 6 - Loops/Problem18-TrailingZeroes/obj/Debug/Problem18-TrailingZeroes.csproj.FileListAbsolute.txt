@@ -1,0 +1,6 @@
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 6 - Loops\Problem18-TrailingZeroes\bin\Debug\Problem18-TrailingZeroes.exe.config
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 6 - Loops\Problem18-TrailingZeroes\bin\Debug\Problem18-TrailingZeroes.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 6 - Loops\Problem18-TrailingZeroes\bin\Debug\Problem18-TrailingZeroes.pdb
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 6 - Loops\Problem18-TrailingZeroes\obj\Debug\Problem18-TrailingZeroes.csprojResolveAssemblyReference.cache
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 6 - Loops\Problem18-TrailingZeroes\obj\Debug\Problem18-TrailingZeroes.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 6 - Loops\Problem18-TrailingZeroes\obj\Debug\Problem18-TrailingZeroes.pdb

@@ -1,0 +1,5 @@
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 4 - Console Input Output\Problem8-NumbersFrom1to10\bin\Debug\Problem8-NumbersFrom1to10.exe.config
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 4 - Console Input Output\Problem8-NumbersFrom1to10\bin\Debug\Problem8-NumbersFrom1to10.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 4 - Console Input Output\Problem8-NumbersFrom1to10\bin\Debug\Problem8-NumbersFrom1to10.pdb
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 4 - Console Input Output\Problem8-NumbersFrom1to10\obj\Debug\Problem8-NumbersFrom1to10.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 4 - Console Input Output\Problem8-NumbersFrom1to10\obj\Debug\Problem8-NumbersFrom1to10.pdb

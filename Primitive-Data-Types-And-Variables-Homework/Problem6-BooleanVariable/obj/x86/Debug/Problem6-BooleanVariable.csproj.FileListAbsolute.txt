@@ -1,0 +1,6 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Problem5\Problem5-BooleanVariable\obj\x86\Debug\Problem5-BooleanVariable.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Problem5\Problem5-BooleanVariable\obj\x86\Debug\Problem5-BooleanVariable.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem5-BooleanVariable\bin\Debug\Problem5-BooleanVariable.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem5-BooleanVariable\bin\Debug\Problem5-BooleanVariable.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem6-BooleanVariable\obj\x86\Debug\Problem5-BooleanVariable.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem6-BooleanVariable\obj\x86\Debug\Problem5-BooleanVariable.pdb

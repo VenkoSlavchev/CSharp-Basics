@@ -1,0 +1,6 @@
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 6 - Loops\Problem7-N!etc\bin\Debug\Problem7-N!etc.exe.config
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 6 - Loops\Problem7-N!etc\bin\Debug\Problem7-N!etc.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 6 - Loops\Problem7-N!etc\bin\Debug\Problem7-N!etc.pdb
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 6 - Loops\Problem7-N!etc\obj\Debug\Problem7-N!etc.csprojResolveAssemblyReference.cache
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 6 - Loops\Problem7-N!etc\obj\Debug\Problem7-N!etc.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 6 - Loops\Problem7-N!etc\obj\Debug\Problem7-N!etc.pdb

@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem3-ComparingFloats\bin\Debug\Problem3-ComparingFloats.exe
+c:\users\admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem3-ComparingFloats\bin\Debug\Problem3-ComparingFloats.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem3-ComparingFloats\obj\x86\Debug\Problem3-ComparingFloats.exe
+c:\users\admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem3-ComparingFloats\obj\x86\Debug\Problem3-ComparingFloats.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem3-ComparingFloats\obj\x86\Debug\Problem3-ComparingFloats.csprojResolveAssemblyReference.cache

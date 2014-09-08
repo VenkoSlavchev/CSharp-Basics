@@ -1,0 +1,4 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem17-Debugger\bin\Debug\Problem17-Debugger.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem17-Debugger\bin\Debug\Problem17-Debugger.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem17-Debugger\obj\x86\Debug\Problem17-Debugger.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Intro-Programming-Homework\Problem17-Debugger\obj\x86\Debug\Problem17-Debugger.pdb

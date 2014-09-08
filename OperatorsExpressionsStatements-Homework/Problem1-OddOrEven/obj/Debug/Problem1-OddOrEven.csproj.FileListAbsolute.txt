@@ -1,0 +1,6 @@
+c:\users\venko\documents\visual studio 2013\Projects\Problem1-OddOrEven\Problem1-OddOrEven\bin\Debug\Problem1-OddOrEven.exe.config
+c:\users\venko\documents\visual studio 2013\Projects\Problem1-OddOrEven\Problem1-OddOrEven\bin\Debug\Problem1-OddOrEven.exe
+c:\users\venko\documents\visual studio 2013\Projects\Problem1-OddOrEven\Problem1-OddOrEven\bin\Debug\Problem1-OddOrEven.pdb
+c:\users\venko\documents\visual studio 2013\Projects\Problem1-OddOrEven\Problem1-OddOrEven\obj\Debug\Problem1-OddOrEven.csprojResolveAssemblyReference.cache
+c:\users\venko\documents\visual studio 2013\Projects\Problem1-OddOrEven\Problem1-OddOrEven\obj\Debug\Problem1-OddOrEven.exe
+c:\users\venko\documents\visual studio 2013\Projects\Problem1-OddOrEven\Problem1-OddOrEven\obj\Debug\Problem1-OddOrEven.pdb

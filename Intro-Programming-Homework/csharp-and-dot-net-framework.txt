@@ -1,0 +1,6 @@
+ The Difference between C# and .NET Framework
+  C# is a programming language but .NET is a framework. Framework means it contained different applications. 
+  Some Name of the applications are Console Application,Windows Applications, Web Applications. 
+  .NET Framework supports more than 20 languages.Microsoft's implementation of C# is heavily integrated
+  with the .NET Framework so it is understandable that they are strongly connected.
+  However they are two very different things.

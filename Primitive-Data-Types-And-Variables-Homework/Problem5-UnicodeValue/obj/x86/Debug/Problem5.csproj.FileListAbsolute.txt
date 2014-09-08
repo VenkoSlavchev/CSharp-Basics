@@ -1,0 +1,4 @@
+c:\users\admin\documents\visual studio 2010\Projects\Problem5\Problem5\bin\Debug\Problem5.exe
+c:\users\admin\documents\visual studio 2010\Projects\Problem5\Problem5\bin\Debug\Problem5.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Problem5\Problem5\obj\x86\Debug\Problem5.exe
+c:\users\admin\documents\visual studio 2010\Projects\Problem5\Problem5\obj\x86\Debug\Problem5.pdb

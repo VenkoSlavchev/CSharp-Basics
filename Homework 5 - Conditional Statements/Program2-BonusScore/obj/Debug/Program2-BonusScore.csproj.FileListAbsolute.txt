@@ -1,0 +1,5 @@
+c:\users\venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Program2-BonusScore\bin\Debug\Program2-BonusScore.exe.config
+c:\users\venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Program2-BonusScore\bin\Debug\Program2-BonusScore.exe
+c:\users\venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Program2-BonusScore\bin\Debug\Program2-BonusScore.pdb
+c:\users\venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Program2-BonusScore\obj\Debug\Program2-BonusScore.exe
+c:\users\venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Program2-BonusScore\obj\Debug\Program2-BonusScore.pdb

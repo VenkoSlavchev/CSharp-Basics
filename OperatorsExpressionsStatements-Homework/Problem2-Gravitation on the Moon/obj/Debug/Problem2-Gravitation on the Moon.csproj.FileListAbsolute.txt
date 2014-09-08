@@ -1,0 +1,5 @@
+c:\users\venko\documents\visual studio 2013\Projects\Problem1-OddOrEven\Problem2-Gravitation on the Moon\bin\Debug\Problem2-Gravitation on the Moon.exe.config
+c:\users\venko\documents\visual studio 2013\Projects\Problem1-OddOrEven\Problem2-Gravitation on the Moon\bin\Debug\Problem2-Gravitation on the Moon.exe
+c:\users\venko\documents\visual studio 2013\Projects\Problem1-OddOrEven\Problem2-Gravitation on the Moon\bin\Debug\Problem2-Gravitation on the Moon.pdb
+c:\users\venko\documents\visual studio 2013\Projects\Problem1-OddOrEven\Problem2-Gravitation on the Moon\obj\Debug\Problem2-Gravitation on the Moon.exe
+c:\users\venko\documents\visual studio 2013\Projects\Problem1-OddOrEven\Problem2-Gravitation on the Moon\obj\Debug\Problem2-Gravitation on the Moon.pdb

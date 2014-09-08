@@ -1,0 +1,5 @@
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem7-PointInACircle\bin\Debug\Problem7-PointInACircle.exe.config
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem7-PointInACircle\bin\Debug\Problem7-PointInACircle.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem7-PointInACircle\bin\Debug\Problem7-PointInACircle.pdb
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem7-PointInACircle\obj\Debug\Problem7-PointInACircle.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem7-PointInACircle\obj\Debug\Problem7-PointInACircle.pdb

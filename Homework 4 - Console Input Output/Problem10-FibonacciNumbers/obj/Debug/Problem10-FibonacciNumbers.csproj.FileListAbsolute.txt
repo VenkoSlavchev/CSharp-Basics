@@ -1,0 +1,6 @@
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 4 - Console Input Output\Problem10-FibonacciNumbers\bin\Debug\Problem10-FibonacciNumbers.exe.config
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 4 - Console Input Output\Problem10-FibonacciNumbers\obj\Debug\Problem10-FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 4 - Console Input Output\Problem10-FibonacciNumbers\bin\Debug\Problem10-FibonacciNumbers.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 4 - Console Input Output\Problem10-FibonacciNumbers\bin\Debug\Problem10-FibonacciNumbers.pdb
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 4 - Console Input Output\Problem10-FibonacciNumbers\obj\Debug\Problem10-FibonacciNumbers.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 4 - Console Input Output\Problem10-FibonacciNumbers\obj\Debug\Problem10-FibonacciNumbers.pdb

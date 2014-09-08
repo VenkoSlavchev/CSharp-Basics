@@ -1,0 +1,6 @@
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem10-BeerTime\bin\Debug\Problem10-BeerTime.exe.config
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem10-BeerTime\bin\Debug\Problem10-BeerTime.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem10-BeerTime\bin\Debug\Problem10-BeerTime.pdb
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem10-BeerTime\obj\Debug\Problem10-BeerTime.csprojResolveAssemblyReference.cache
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem10-BeerTime\obj\Debug\Problem10-BeerTime.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem10-BeerTime\obj\Debug\Problem10-BeerTime.pdb

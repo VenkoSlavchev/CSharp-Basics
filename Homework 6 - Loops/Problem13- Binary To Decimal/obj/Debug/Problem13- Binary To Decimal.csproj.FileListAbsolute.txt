@@ -1,0 +1,5 @@
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 6 - Loops\Problem13- Binary To Decimal\bin\Debug\Problem13- Binary To Decimal.exe.config
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 6 - Loops\Problem13- Binary To Decimal\bin\Debug\Problem13- Binary To Decimal.exe
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 6 - Loops\Problem13- Binary To Decimal\bin\Debug\Problem13- Binary To Decimal.pdb
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 6 - Loops\Problem13- Binary To Decimal\obj\Debug\Problem13- Binary To Decimal.exe
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 6 - Loops\Problem13- Binary To Decimal\obj\Debug\Problem13- Binary To Decimal.pdb

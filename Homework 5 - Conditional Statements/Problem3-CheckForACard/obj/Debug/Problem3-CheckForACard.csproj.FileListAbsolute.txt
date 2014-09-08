@@ -1,0 +1,6 @@
+c:\users\venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem3-CheckForACard\bin\Debug\Problem3-CheckForACard.exe.config
+c:\users\venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem3-CheckForACard\bin\Debug\Problem3-CheckForACard.exe
+c:\users\venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem3-CheckForACard\bin\Debug\Problem3-CheckForACard.pdb
+c:\users\venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem3-CheckForACard\obj\Debug\Problem3-CheckForACard.csprojResolveAssemblyReference.cache
+c:\users\venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem3-CheckForACard\obj\Debug\Problem3-CheckForACard.exe
+c:\users\venko\documents\visual studio 2013\Projects\Homework 5 - Conditional Statements\Problem3-CheckForACard\obj\Debug\Problem3-CheckForACard.pdb

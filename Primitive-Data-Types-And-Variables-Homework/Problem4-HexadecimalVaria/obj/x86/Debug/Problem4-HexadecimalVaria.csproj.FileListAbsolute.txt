@@ -1,0 +1,4 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem4-HexadecimalVaria\bin\Debug\Problem4-HexadecimalVaria.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem4-HexadecimalVaria\bin\Debug\Problem4-HexadecimalVaria.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem4-HexadecimalVaria\obj\x86\Debug\Problem4-HexadecimalVaria.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem4-HexadecimalVaria\obj\x86\Debug\Problem4-HexadecimalVaria.pdb

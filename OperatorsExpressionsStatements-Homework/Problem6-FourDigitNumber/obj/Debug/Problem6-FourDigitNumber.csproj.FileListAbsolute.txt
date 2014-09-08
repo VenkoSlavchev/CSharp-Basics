@@ -1,0 +1,5 @@
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem6-FourDigitNumber\bin\Debug\Problem6-FourDigitNumber.exe.config
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem6-FourDigitNumber\bin\Debug\Problem6-FourDigitNumber.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem6-FourDigitNumber\bin\Debug\Problem6-FourDigitNumber.pdb
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem6-FourDigitNumber\obj\Debug\Problem6-FourDigitNumber.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem6-FourDigitNumber\obj\Debug\Problem6-FourDigitNumber.pdb

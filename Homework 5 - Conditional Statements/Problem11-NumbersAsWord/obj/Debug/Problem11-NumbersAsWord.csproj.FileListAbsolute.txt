@@ -1,0 +1,6 @@
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 5 - Conditional Statements\Problem11-NumbersAsWord\bin\Debug\Problem11-NumbersAsWord.exe.config
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 5 - Conditional Statements\Problem11-NumbersAsWord\obj\Debug\Problem11-NumbersAsWord.csprojResolveAssemblyReference.cache
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 5 - Conditional Statements\Problem11-NumbersAsWord\bin\Debug\Problem11-NumbersAsWord.exe
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 5 - Conditional Statements\Problem11-NumbersAsWord\bin\Debug\Problem11-NumbersAsWord.pdb
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 5 - Conditional Statements\Problem11-NumbersAsWord\obj\Debug\Problem11-NumbersAsWord.exe
+C:\Users\Venko\Documents\Visual Studio 2013\Projects\Homework 5 - Conditional Statements\Problem11-NumbersAsWord\obj\Debug\Problem11-NumbersAsWord.pdb

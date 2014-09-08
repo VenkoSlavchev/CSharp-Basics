@@ -1,0 +1,6 @@
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem9-Trapezoids\bin\Debug\Problem9-Trapezoids.exe.config
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem9-Trapezoids\bin\Debug\Problem9-Trapezoids.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem9-Trapezoids\bin\Debug\Problem9-Trapezoids.pdb
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem9-Trapezoids\obj\Debug\Problem9-Trapezoids.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem9-Trapezoids\obj\Debug\Problem9-Trapezoids.pdb
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem9-Trapezoids\obj\Debug\Problem9-Trapezoids.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem2-FloatorDouble\bin\Debug\Problem2-FloatorDouble.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem2-FloatorDouble\bin\Debug\Problem2-FloatorDouble.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem2-FloatorDouble\obj\x86\Debug\Problem2-FloatorDouble.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Primitive-Data-Types-And-Variables-Homework\Problem2-FloatorDouble\obj\x86\Debug\Problem2-FloatorDouble.pdb

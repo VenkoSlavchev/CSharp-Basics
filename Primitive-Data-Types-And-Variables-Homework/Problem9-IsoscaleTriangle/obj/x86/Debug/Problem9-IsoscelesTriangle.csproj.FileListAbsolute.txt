@@ -1,0 +1,10 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Problem5\Problem8\obj\x86\Debug\Problem8.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Problem5\Problem8\obj\x86\Debug\Problem8.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem8\bin\Debug\Problem8.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem8\bin\Debug\Problem8.pdb
+C:\Users\Admin\Desktop\UNISOFT-Homeworks\Primitive-Data-Types-And-Variables-Homework\Problem9-IsoscaleTriangle\obj\x86\Debug\Problem8.exe
+C:\Users\Admin\Desktop\UNISOFT-Homeworks\Primitive-Data-Types-And-Variables-Homework\Problem9-IsoscaleTriangle\obj\x86\Debug\Problem8.pdb
+C:\Users\Admin\Desktop\UNISOFT-Homeworks\Primitive-Data-Types-And-Variables-Homework\Problem9-IsoscaleTriangle\bin\Debug\Problem8.exe
+C:\Users\Admin\Desktop\UNISOFT-Homeworks\Primitive-Data-Types-And-Variables-Homework\Problem9-IsoscaleTriangle\bin\Debug\Problem8.pdb
+D:\SoftUni\Homeworks\Primitive-Data-Types-And-Variables-Homework\Problem9-IsoscaleTriangle\obj\x86\Debug\Problem8.exe
+D:\SoftUni\Homeworks\Primitive-Data-Types-And-Variables-Homework\Problem9-IsoscaleTriangle\obj\x86\Debug\Problem8.pdb

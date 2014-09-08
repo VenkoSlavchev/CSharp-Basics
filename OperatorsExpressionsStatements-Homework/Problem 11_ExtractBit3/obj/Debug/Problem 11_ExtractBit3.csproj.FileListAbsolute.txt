@@ -1,0 +1,6 @@
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem 11_ExtractBit3\bin\Debug\Problem 11_ExtractBit3.exe.config
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem 11_ExtractBit3\bin\Debug\Problem 11_ExtractBit3.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem 11_ExtractBit3\bin\Debug\Problem 11_ExtractBit3.pdb
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem 11_ExtractBit3\obj\Debug\Problem 11_ExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem 11_ExtractBit3\obj\Debug\Problem 11_ExtractBit3.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem 11_ExtractBit3\obj\Debug\Problem 11_ExtractBit3.pdb

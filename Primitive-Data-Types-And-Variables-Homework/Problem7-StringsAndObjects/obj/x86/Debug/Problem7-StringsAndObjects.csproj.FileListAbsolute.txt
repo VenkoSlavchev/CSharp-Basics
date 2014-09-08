@@ -1,0 +1,6 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Problem5\Problem6\obj\x86\Debug\Problem6.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Problem5\Problem6\obj\x86\Debug\Problem6.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem6\bin\Debug\Problem6.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem6\bin\Debug\Problem6.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem7-StringsAndObjects\obj\x86\Debug\Problem6.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem7-StringsAndObjects\obj\x86\Debug\Problem6.pdb

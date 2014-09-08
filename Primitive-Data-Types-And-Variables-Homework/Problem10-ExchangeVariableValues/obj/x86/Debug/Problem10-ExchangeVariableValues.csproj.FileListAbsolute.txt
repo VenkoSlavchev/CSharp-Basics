@@ -1,0 +1,4 @@
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem10-ExchangeVariableValues\bin\Debug\Problem10-ExchangeVariableValues.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem10-ExchangeVariableValues\bin\Debug\Problem10-ExchangeVariableValues.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem10-ExchangeVariableValues\obj\x86\Debug\Problem10-ExchangeVariableValues.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Problem5\Problem10-ExchangeVariableValues\obj\x86\Debug\Problem10-ExchangeVariableValues.pdb

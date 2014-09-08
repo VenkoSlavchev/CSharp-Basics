@@ -1,0 +1,6 @@
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem14-ModifyABit\bin\Debug\Problem14-ModifyABit.exe.config
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem14-ModifyABit\bin\Debug\Problem14-ModifyABit.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem14-ModifyABit\bin\Debug\Problem14-ModifyABit.pdb
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem14-ModifyABit\obj\Debug\Problem14-ModifyABit.csprojResolveAssemblyReference.cache
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem14-ModifyABit\obj\Debug\Problem14-ModifyABit.exe
+C:\Users\Venko\documents\visual studio 2013\Projects\OperatorsExpressionsStatements-Homework\Problem14-ModifyABit\obj\Debug\Problem14-ModifyABit.pdb
